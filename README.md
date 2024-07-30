@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6DF767&width=435&lines=Hey+%2C+there+!!+I'm+Shreya;And+Welcome+to+my+Profile!!)](https://git.io/typing-svg)<h3 align="center">Expert in End-to-End Data Solutions: Machine Learning, Data Analysis, and AI</h3>
 
-<img align="right" alt="coding" height ="350" width="350" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
+<img align="right" alt="coding" height ="200" width="350" src="https://marketbusinessnews.com/wp-content/uploads/2020/10/1-Predictive-Analytics-GIF-for-article.gif">
 
 - 🌱 I’m currently learning **Fine Tuning LLM's**
 
