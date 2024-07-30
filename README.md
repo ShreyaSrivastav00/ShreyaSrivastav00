@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **Fine Tuning LLM's**
 
-- 👨‍💻 [**View my portfolio**](https://shreyasrivastav00.github.io/portfolio/) to see all of my projects.
+- 👨‍💻 [**View my portfolio**](https://shreyasrivastav00.github.io/) to see all of my projects.
 
 - 📝 Explore detailed **blogs** on my **Data Science** and **AI** projects [**here.**](https://medium.com/@shreyasrivastav26)
 
